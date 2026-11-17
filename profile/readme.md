@@ -23,11 +23,13 @@ Dominamos as ferramentas mais eficientes do mercado para garantir entregas rápi
 
 ---
 
-### 📂 Principais Projetos
+## 📂 Principais Projetos
+
 Muitos de nossos repositórios são privados para proteger a Propriedade Intelectual de nossos clientes, mas destacamos:
 
-* **MedGestor:** Sistema completo para gestão de consultórios médicos, focado em agilidade e prontuários inteligentes.
-* *(Em breve)*: Novas soluções escaláveis para o setor de serviços e automação.
+- **CoreVitta:** Sistema completo para gestão de consultórios médicos, focado em agilidade e prontuários inteligentes.
+- **BarberWorkspace:** Sistema de gestão para barbearias, com foco em agendamentos, controle de clientes e organização do dia a dia do negócio.
+- *(Em breve)*: Novas soluções escaláveis para o setor de serviços e automação.
 
 ---
 
